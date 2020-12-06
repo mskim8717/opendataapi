@@ -12,9 +12,9 @@ setup(
     # 배포하는 사람의 메일주소를 작성합니다.
     author_email='ms.kim8717@gmail.com',
     # 배포하는 패키지의 url을 적어줍니다. 보통 github 링크를 적습니다.
-    url='https://github.com/mskim8717/open-data-api',
+    url='https://github.com/mskim8717/opendataapi',
     # 배포하는 패키지의 다운로드 url을 적어줍니다.
-    download_url='https://github.com/mskim8717/open-data-api/archive/master.zip',
+    download_url='https://github.com/mskim8717/opendataapi/archive/master.zip',
     # 해당 패키지를 사용하기 위해 필요한 패키지를 적어줍니다. ex. install_requires= ['numpy', 'django']
     # 여기에 적어준 패키지는 현재 패키지를 install할때 함께 install됩니다.
     install_requires=[],
